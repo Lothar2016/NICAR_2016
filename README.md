@@ -1,2 +1,2 @@
 # NICAR_2016
-NICAR practice depository
+NICAR practice depository to help get started
